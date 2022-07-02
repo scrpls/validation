@@ -1,0 +1,6 @@
+README.md:1 MD022/blanks-around-headings/blanks-around-headers Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] [Context: "## Prerequisites"]
+README.md:1 MD041/first-line-heading/first-line-h1 First line in a file should be a top-level heading [Context: "## Prerequisites"]
+README.md:4 MD022/blanks-around-headings/blanks-around-headers Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] [Context: "## Lifecycle"]
+README.md:5 MD032/blanks-around-lists Lists should be surrounded by blank lines [Context: "1. make clean: cleans the webs..."]
+README.md:9 MD022/blanks-around-headings/blanks-around-headers Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below] [Context: "## test url"]
+README.md:10:1 MD034/no-bare-urls Bare URL used [Context: "http://www.siudsdvsodhfsodij39..."]
